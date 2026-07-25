@@ -41,6 +41,6 @@ Hi, I'm Mustafa, an AI Engineer and Machine Learning Specialist. I'm passionate 
 ## 🤝🏻 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mustafaayildiz/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96" alt="linkedin" /></a>&nbsp;
-  <a href="https://www.upwork.com/freelancers/mustafayildiz0"><img src="https://www.readmecodegen.com/api/social-icon?name=upwork&size=96" alt="upwork" /></a>
+  <a href="https://www.linkedin.com/in/mustafaayildiz/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32" alt="linkedin" /></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/mustafayildiz0"><img src="https://www.readmecodegen.com/api/social-icon?name=upwork&size=32" alt="upwork" /></a>
 </p>
