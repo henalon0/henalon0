@@ -2,33 +2,42 @@
 
 ## 👨🏻‍💻 About Me
 
-Hi, I'm Mustafa, an AI Engineer and Machine Learning Specialist. I'm passionate about pushing the boundaries of technology to solve complex problems. With a focus on continuous learning, I aim to contribute innovative solutions in the field of artificial intelligence.
+Hi, I'm Mustafa, an AI engineer and the founder of [Velrix](https://velrix.co). I build AI agents, internal tools and SaaS for work that teams still do by hand.
 
-## 🤖 Expertise
+Every system I ship hands unclear cases to a person and comes with a test that shows how often it's right. 30+ projects delivered, 5+ systems running in production.
 
-*   **Machine Learning:** Crafting solutions using advanced ML techniques for predictive modeling, deep learning, and more.
-*   **Web Scraping and Automation:** Unleashing the power of web scraping, crawling, and data extraction to transform unstructured content into valuable insights.
-*   **Django and Flask:** Building robust web applications and backends with a focus on seamless user experiences.
+## 🤖 What I Build
+
+*   **AI agents:** tool-calling agents and MCP servers that act inside your CRM, helpdesk or booking system, with human-in-the-loop for anything irreversible.
+*   **RAG and document AI:** search, extraction and validation over large document sets, with sources shown for every answer.
+*   **Internal tools and automation:** workflows across your existing stack (n8n, Make, APIs), so manual steps run on their own.
+*   **SaaS development:** from MVP to production, with LLM features built into the product.
+
+## 🚀 Selected Work
+
+*   **Document validation platform (carbon credits):** checks projects against Verra and Gold Standard requirements across 10,000+ projects; reviews are about 50% faster.
+*   **AI support for a German app company (100K+ users):** about 80% of repeat tickets close without a person; unclear cases go to the team with context.
+*   **WhatsApp AI concierge (Dubai hospitality):** text, voice and image input, with live-availability booking, changes and cancellations through Booking.com and SevenRooms.
+*   **Content pipeline for a YouTube network with millions of subscribers:** scripts, dubbing and thumbnails generated from trend data; a week of prep down to about 6 hours.
 
 ## 🛠 Tech Stack
 
 <p align="center">
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</p>
+
+<p align="center">
+  OpenAI · Claude · LangChain · MCP · Pinecone · pgvector · n8n · Make
 </p>
 
 ## ⚙️ GitHub Analytics
@@ -41,6 +50,5 @@ Hi, I'm Mustafa, an AI Engineer and Machine Learning Specialist. I'm passionate 
 ## 🤝🏻 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mustafaayildiz/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32" alt="linkedin" /></a>&nbsp;
-  <a href="https://www.upwork.com/freelancers/mustafayildiz0"><img src="https://www.readmecodegen.com/api/social-icon?name=upwork&size=32" alt="upwork" /></a>
+  <a href="https://velrix.co">velrix.co</a> · <a href="mailto:mustafa@velrix.co">mustafa@velrix.co</a> · <a href="https://www.linkedin.com/in/mustafaayildiz/">LinkedIn</a> · <a href="https://www.upwork.com/freelancers/mustafayildiz0">Upwork</a>
 </p>
