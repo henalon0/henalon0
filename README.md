@@ -16,9 +16,9 @@ Every system I ship hands unclear cases to a person and comes with a test that s
 ## 🚀 Selected Work
 
 *   **Document validation platform (carbon credits):** checks projects against Verra and Gold Standard requirements across 10,000+ projects; reviews are about 50% faster.
-*   **AI support for a German app company (100K+ users):** about 80% of repeat tickets close without a person; unclear cases go to the team with context.
-*   **WhatsApp AI concierge (Dubai hospitality):** text, voice and image input, with live-availability booking, changes and cancellations through Booking.com and SevenRooms.
 *   **Content pipeline for a YouTube network with millions of subscribers:** scripts, dubbing and thumbnails generated from trend data; a week of prep down to about 6 hours.
+*   **WhatsApp AI concierge (Dubai hospitality):** text, voice and image input, with live-availability booking, changes and cancellations through Booking.com and SevenRooms.
+*   **AI support for a German app company (100K+ users):** about 80% of repeat tickets close without a person; unclear cases go to the team with context.
 
 ## 🛠 Tech Stack
 
