@@ -23,28 +23,21 @@ Every system I ship hands unclear cases to a person and comes with a test that s
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/django/django-plain.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytorch/pytorch-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/supabase/supabase-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg">
 </p>
 
 <p align="center">
   OpenAI · Claude · LangChain · MCP · Pinecone · pgvector · n8n · Make
-</p>
-
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <img width="400px" height="160px"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=henalon0&show_icons=true&theme=algolia&include_all_commits=true&card_width=500"/>
-  <img width="400px" height="160px"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henalon0&langs_count=6&theme=algolia&hide_progress=true&card_width=500"/>
 </p>
 
 ## 🤝🏻 Connect with Me
